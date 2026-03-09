@@ -1,0 +1,38 @@
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.deps.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.runtimeconfig.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Application.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Domain.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Application.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.csproj.AssemblyReference.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.AssemblyInfoInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.AssemblyInfo.cs
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.I.5544573C.Up2Date
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\refint\Tienda.Infrastructure.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.genruntimeconfig.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\ref\Tienda.Infrastructure.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.deps.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.runtimeconfig.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Application.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Application.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.AssemblyInfo.cs
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.I.5544573C.Up2Date
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\refint\Tienda.Infrastructure.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\Tienda.Infrastructure.genruntimeconfig.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Infrastructure\obj\Debug\net10.0\ref\Tienda.Infrastructure.dll

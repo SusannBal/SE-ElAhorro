@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QlE2EVfm1k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Tienda.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Susann\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

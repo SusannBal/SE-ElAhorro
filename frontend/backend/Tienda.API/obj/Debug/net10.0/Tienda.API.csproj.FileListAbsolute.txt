@@ -1,0 +1,171 @@
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\appsettings.Development.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\appsettings.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.staticwebassets.endpoints.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.exe
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.deps.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.runtimeconfig.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Azure.Core.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Azure.Identity.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.ClientModel.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Memory.Data.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Application.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Domain.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Infrastructure.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Application.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.AssemblyReference.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.AssemblyInfoInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.AssemblyInfo.cs
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.CoreCompileInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.MvcApplicationPartsAssemblyInfo.cs
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.MvcApplicationPartsAssemblyInfo.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\scopedcss\bundle\Tienda.API.styles.css
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.Up2Date
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\refint\Tienda.API.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.genruntimeconfig.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\ref\Tienda.API.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.staticwebassets.endpoints.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\appsettings.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.exe
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.deps.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.runtimeconfig.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.API.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Application.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Infrastructure.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Application.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Infrastructure.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.AssemblyReference.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.AssemblyInfoInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.AssemblyInfo.cs
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.CoreCompileInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\scopedcss\bundle\Tienda.API.styles.css
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.csproj.Up2Date
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\refint\Tienda.API.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\Tienda.API.genruntimeconfig.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.API\obj\Debug\net10.0\ref\Tienda.API.dll

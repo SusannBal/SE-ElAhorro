@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|solutionrelative:tienda.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|solutionrelative:tienda.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|solutionrelative:tienda.api\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\dtos\\createproveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\createproveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|solutionrelative:tienda.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\e19cdc83d785364936a31a04024fbdfe168903b3\\OpenApiXmlCommentSupport.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\a5cc8f765950d3187b6d323dda3e46189eb27a5b\\PublicTopLevelProgram.Generated.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.infrastructure\\data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\data\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.infrastructure\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iproveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.infrastructure\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\dtos\\updateproveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\updateproveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\dtos\\ingresostockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\ingresostockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1304DE19-E644-5E82-618F-0422AA01303C}|Tienda.Infrastructure\\Tienda.Infrastructure.csproj|solutionrelative:tienda.infrastructure\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7914980-7046-A08A-841C-71702086B6F0}|Tienda.API\\Tienda.API.csproj|solutionrelative:tienda.api\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.application\\dtos\\createventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EC25CB-0335-F10C-64FE-0C6E22A481F6}|Tienda.Application\\Tienda.Application.csproj|solutionrelative:tienda.application\\dtos\\createventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58974F5-4662-88AA-16C2-6FAB6F9FA638}|Tienda.Domain\\Tienda.Domain.csproj|c:\\users\\susann\\documents\\upds\\7-semestre\\sistemas_de_informacion_2\\sistemas de informacion ii\\sistemas de informacion ii\\tienda\\backent\\tienda\\tienda.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58974F5-4662-88AA-16C2-6FAB6F9FA638}|Tienda.Domain\\Tienda.Domain.csproj|solutionrelative:tienda.domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\appsettings.json",
+              "RelativeToolTip": "Tienda.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T01:25:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Tienda.API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Tienda.API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:19:49.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Services\\ProveedorService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "Tienda.Application\\Services\\ProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:39:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Tienda.Application\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:17:53.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpenApiXmlCommentSupport.generated.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\e19cdc83d785364936a31a04024fbdfe168903b3\\OpenApiXmlCommentSupport.generated.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\e19cdc83d785364936a31a04024fbdfe168903b3\\OpenApiXmlCommentSupport.generated.cs",
+              "ToolTip": "C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\e19cdc83d785364936a31a04024fbdfe168903b3\\OpenApiXmlCommentSupport.generated.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\e19cdc83d785364936a31a04024fbdfe168903b3\\OpenApiXmlCommentSupport.generated.cs [Solo lectura]",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:51:38.238Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProveedorRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProveedorRepository.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:36:13.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProveedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\CreateProveedorDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\CreateProveedorDto.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\CreateProveedorDto.cs",
+              "RelativeToolTip": "Tienda.Application\\DTOs\\CreateProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:33:43.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "Tienda.API\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "Tienda.API\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:42:07.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PublicTopLevelProgram.Generated.g.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\a5cc8f765950d3187b6d323dda3e46189eb27a5b\\PublicTopLevelProgram.Generated.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\a5cc8f765950d3187b6d323dda3e46189eb27a5b\\PublicTopLevelProgram.Generated.g.cs",
+              "ToolTip": "C:\\Users\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\a5cc8f765950d3187b6d323dda3e46189eb27a5b\\PublicTopLevelProgram.Generated.g.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\jesus\\AppData\\Local\\Temp\\.vsdbgsrc\\a5cc8f765950d3187b6d323dda3e46189eb27a5b\\PublicTopLevelProgram.Generated.g.cs [Solo lectura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:51:28.286Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:25:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateProveedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\UpdateProveedorDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\UpdateProveedorDto.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\UpdateProveedorDto.cs",
+              "RelativeToolTip": "Tienda.Application\\DTOs\\UpdateProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:34:05.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProveedorService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProveedorService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IProveedorService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProveedorService.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:39:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Repositories\\StockRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:13:08.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TiendaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Data\\TiendaDbContext.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Data\\TiendaDbContext.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Data\\TiendaDbContext.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Data\\TiendaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:00:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProveedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\ProveedorRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Repositories\\ProveedorRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\ProveedorRepository.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Repositories\\ProveedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:36:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Program.cs",
+              "RelativeToolTip": "Tienda.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:34:19.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IngresoStockDto.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\IngresoStockDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\IngresoStockDto.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\IngresoStockDto.cs",
+              "RelativeToolTip": "Tienda.Application\\DTOs\\IngresoStockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:20:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProductoService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IProductoService.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:19:13.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:12:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IVentaRepository.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:27:43.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IVentaService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IVentaService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IVentaService.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:31:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\VentaService.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Services\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Services\\VentaService.cs",
+              "RelativeToolTip": "Tienda.Application\\Services\\VentaService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:32:37.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Tienda.API\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.API\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Tienda.API\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:34:03.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Infrastructure\\Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Infrastructure\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "Tienda.Infrastructure\\Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:28:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Tienda.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:47:15.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Domain\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "Tienda.Domain\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Domain\\Entities\\Venta.cs",
+              "RelativeToolTip": "Tienda.Domain\\Entities\\Venta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:36:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateVentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\CreateVentaDto.cs",
+              "RelativeDocumentMoniker": "Tienda.Application\\DTOs\\CreateVentaDto.cs",
+              "ToolTip": "C:\\Users\\Susann\\Documents\\UPDS\\7-SEMESTRE\\SISTEMAS_DE_INFORMACION_2\\Sistemas de informacion II\\Sistemas de informacion II\\Tienda\\Backent\\Tienda\\Tienda.Application\\DTOs\\CreateVentaDto.cs",
+              "RelativeToolTip": "Tienda.Application\\DTOs\\CreateVentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:24:58.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

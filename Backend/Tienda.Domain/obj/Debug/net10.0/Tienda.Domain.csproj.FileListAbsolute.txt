@@ -1,0 +1,22 @@
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.deps.json
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfo.cs
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\refint\Tienda.Domain.dll
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.pdb
+C:\uni\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\ref\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.deps.json
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\bin\Debug\net10.0\Tienda.Domain.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.AssemblyInfo.cs
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\refint\Tienda.Domain.dll
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\Tienda.Domain.pdb
+C:\Users\Susann\Documents\UPDS\7-SEMESTRE\SISTEMAS_DE_INFORMACION_2\Sistemas de informacion II\Sistemas de informacion II\Tienda\Backent\Tienda\Tienda.Domain\obj\Debug\net10.0\ref\Tienda.Domain.dll
